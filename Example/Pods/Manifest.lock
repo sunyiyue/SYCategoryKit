@@ -1,0 +1,16 @@
+PODS:
+  - SYCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - SYCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  SYCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SYCategoryKit: 33df7dd4d224aa6b98bbfd26946501f790dea136
+
+PODFILE CHECKSUM: 17bc6e8ffae3fb18ac9b9128550a7c894d936b3d
+
+COCOAPODS: 1.10.1

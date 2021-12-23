@@ -1,0 +1,22 @@
+{
+  "name": "SYCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of SYCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/孙越/SYCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "孙越": "2316744588@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/孙越/SYCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SYCategoryKit/Classes/**/*"
+}
